@@ -120,7 +120,7 @@ jobs:
 
         path: |
 
-          E:/aseprite/aseprite/build/bin/data
+          E:/a/aseprite/aseprite/build/bin/data
 
-          E:/aseprite/aseprite/build/bin/aseprite.exe
+          E:/a/aseprite/aseprite/build/bin/aseprite.exe
 
